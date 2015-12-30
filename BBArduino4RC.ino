@@ -1,3 +1,8 @@
+/*#
+* BBArduino4RC - arduino code
+* Copyright: Pierre Neyron <pierre.neyron@free.fr>
+* License: GNU GPL v3
+*/
 #include <Servo.h>
 int cmd = 0;
 int servo_count = 6;

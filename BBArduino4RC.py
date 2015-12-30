@@ -2,7 +2,7 @@
 #
 # BBArduino4RC.py
 # Copyright: Pierre Neyron <pierre.neyron@free.fr>
-# Licence GNU GPL v3
+# License: GNU GPL v3
 #
 import pygame
 import os
